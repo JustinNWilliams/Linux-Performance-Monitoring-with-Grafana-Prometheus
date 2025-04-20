@@ -317,33 +317,3 @@ Through this project, I significantly expanded my expertise in:
 3. **Dashboard design principles** that balance information density with usability
 4. **Custom metrics collection** using the textfile collector pattern
 5. **Alert engineering** that minimizes false positives while ensuring timely notification
-
-### Future Enhancement Opportunities
-
-The current implementation provides a solid foundation that could be extended through:
-
-- Integration with log aggregation using Loki
-- Implementation of distributed tracing with Jaeger
-- Development of automated remediation actions for specific alert conditions
-- Expansion to multi-environment comparison capabilities
-
----
-
-## 📚 References & Resources
-
-### Technical Documentation
-- [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
-- [Grafana Documentation](https://grafana.com/docs/grafana/latest/)
-- [Node Exporter Documentation](https://github.com/prometheus/node_exporter)
-
-### Professional Resources
-- [Prometheus Up & Running (O'Reilly)](https://www.oreilly.com/library/view/prometheus-up/9781492034131/)
-- [Grafana Labs Tutorials](https://grafana.com/tutorials/)
-- [Monitoring Systems and Services with Prometheus (Linux Foundation)](https://training.linuxfoundation.org/training/monitoring-systems-and-services-with-prometheus-lfs241/)
-
-### Additional Tools
-- [PromQL Query Examples](https://prometheus.io/docs/prometheus/latest/querying/examples/)
-- [Grafana Dashboard Templates](https://grafana.com/grafana/dashboards/)
-- [Alert Manager Documentation](https://prometheus.io/docs/alerting/latest/alertmanager/)
-
----
